@@ -1,21 +1,21 @@
 {
   "recursos": [
     {
-      "id": "ebooks",
+      "id": "r01",
       "tipo": "eBook",
       "titulo": "📘 eBooks Gratuitos",
       "descricao": "Leituras essenciais para iniciantes e profissionais da área de QA.",
       "caminho": "recursos/ebooks"
     },
     {
-      "id": "templates",
+      "id": "r02",
       "tipo": "Template",
       "titulo": "📂 Templates de QA",
       "descricao": "Modelos prontos de plano de testes, checklist de revisão e mais.",
       "caminho": "recursos/templates"
     },
     {
-      "id": "artefatos",
+      "id": "r03",
       "tipo": "Artefato",
       "titulo": "🛠️ Artefatos Técnicos",
       "descricao": "Documentos práticos como matriz de rastreabilidade e relatórios.",
