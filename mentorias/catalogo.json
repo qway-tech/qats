@@ -2,19 +2,19 @@
   "mentorias": [
     {
       "id": "m01",
-      "titulo": "👣 Essencial",
+      "nome": "👣 Essencial",
       "descricao": "Para iniciantes ou transição de carreira. Acompanhamento em fundamentos e trilhas da QWay Academy.",
       "caminho": "mentorias/essencial"
     },
     {
       "id": "m02",
-      "titulo": "⚡ Express",
+      "nome": "⚡ Express",
       "descricao": "Sessão pontual para tirar dúvidas, revisar CV, analisar um case ou receber feedback estratégico.",
       "caminho": "mentorias/express"
     },
     {
       "id": "m03",
-      "titulo": "🌍 Carreira Internacional",
+      "nome": "🌍 Carreira Internacional",
       "descricao": "Planejamento de carreira fora do Brasil, CV em inglês, entrevistas e certificações.",
       "caminho": "mentorias/internacional"
     }
