@@ -1,147 +1,325 @@
 {
-  "ebooks": [
-    {
-      "id": "ebook01",
-      "titulo": "Fundamentos de Testes de Software - Um Guia Completo para Iniciantes na Carreira de QA",
-      "autor": "Daniel Castro - QWay Academy",
-      "descricao": "Este ebook visa fornecer uma visão abrangente dos fundamentos de testes de software, especialmente direcionado para iniciantes na carreira de QA. Nele, exploraremos desde conceitos básicos até metodologias avançadas, fornecendo um guia passo a passo para ajudar você a se tornar um profissional de QA bem-sucedido.",
-      "data_publicacao": "Junho de 2024",
-      "numero_paginas": 62,
-      "idioma": "Português",
-      "categorias": [
-        "Testes de Software",
-        "Metodologias Ágeis"
-      ],
-      "nivel_dificuldade": "Junior",
-      "formato": "PDF",
-      "sumario": [
+    "ebooks": [
         {
-          "capitulo": "Capítulo 1 - Introdução",
-          "topicos": [
-            "Objetivos do Guia",
-            "Quem Deve Ler Este Guia",
-            "Estrutura do Guia",
-            "Diferença entre QA e Testes de Software"
-          ]
+            "id": "ebook01",
+            "titulo": "Fundamentos de Testes de Software - Um Guia Completo para Iniciantes na Carreira de QA",
+            "autor": "Daniel Castro - QWay Academy",
+            "descricao": "Este ebook visa fornecer uma visão abrangente dos fundamentos de testes de software, especialmente direcionado para iniciantes na carreira de QA. Nele, exploraremos desde conceitos básicos até metodologias avançadas, fornecendo um guia passo a passo para ajudar você a se tornar um profissional de QA bem-sucedido.",
+            "data_publicacao": "Junho de 2024",
+            "numero_paginas": 62,
+            "idioma": "Português",
+            "categorias": [
+                "Testes de Software",
+                "Metodologias Ágeis"
+            ],
+            "nivel_dificuldade": "Junior",
+            "formato": "PDF",
+            "sumario": [
+                {
+                    "capitulo": "Capítulo 1 - Introdução",
+                    "topicos": [
+                        "Objetivos do Guia",
+                        "Quem Deve Ler Este Guia",
+                        "Estrutura do Guia",
+                        "Diferença entre QA e Testes de Software"
+                    ]
+                },
+                {
+                    "capitulo": "Capítulo 2 - O Papel do QA no Desenvolvimento de Software",
+                    "topicos": [
+                        "Responsabilidades de um QA",
+                        "Habilidades Essenciais",
+                        "Importância do QA no Ciclo de Desenvolvimento"
+                    ]
+                },
+                {
+                    "capitulo": "Capítulo 3 - Tipos de Testes de Software",
+                    "topicos": [
+                        "Testes Funcionais",
+                        "Testes Não Funcionais",
+                        "Testes de Manutenção"
+                    ]
+                },
+                {
+                    "capitulo": "Capítulo 4 - Ciclo de Vida dos Testes",
+                    "topicos": [
+                        "Planejamento de Testes",
+                        "Desenvolvimento de Casos de Teste",
+                        "Execução de Testes",
+                        "Avaliação de Resultados",
+                        "Reteste e Manutenção"
+                    ]
+                },
+                {
+                    "capitulo": "Capítulo 5 - Ferramentas de Testes",
+                    "topicos": [
+                        "Gestão de Testes",
+                        "Automação",
+                        "API",
+                        "Mobile",
+                        "Acessibilidade",
+                        "Unidade",
+                        "Performance",
+                        "Segurança",
+                        "Gestão de Defeitos"
+                    ]
+                },
+                {
+                    "capitulo": "Capítulo 6 - Automação de Testes",
+                    "topicos": [
+                        "Vantagens e Desvantagens",
+                        "Boas Práticas",
+                        "CI/CD",
+                        "Desafios Comuns"
+                    ]
+                },
+                {
+                    "capitulo": "Capítulo 7 - Testes de Performance e Segurança",
+                    "topicos": [
+                        "Tipos de Testes de Performance",
+                        "Ferramentas de Performance",
+                        "Boas Práticas em Performance",
+                        "Tipos de Testes de Segurança",
+                        "Ferramentas de Segurança",
+                        "Integração no Ciclo de Desenvolvimento"
+                    ]
+                },
+                {
+                    "capitulo": "Capítulo 8 - Boas Práticas em Testes de Software",
+                    "topicos": [
+                        "Planejamento e Organização",
+                        "Execução de Testes",
+                        "Gerenciamento de Bugs",
+                        "Colaboração e Comunicação",
+                        "Melhoria Contínua"
+                    ]
+                },
+                {
+                    "capitulo": "Capítulo 9 - Desafios Comuns e Como Superá-los",
+                    "topicos": [
+                        "Cobertura Inadequada",
+                        "Ambientes Inconsistentes",
+                        "Testes Manuais",
+                        "Gerenciamento de Dados",
+                        "Prioridades e Comunicação"
+                    ]
+                },
+                {
+                    "capitulo": "Capítulo 10 - Conclusão",
+                    "topicos": []
+                },
+                {
+                    "capitulo": "Capítulo 11 - Próximos Passos na Carreira de QA",
+                    "topicos": [
+                        "Objetivos Profissionais",
+                        "Habilidades Técnicas",
+                        "Certificações",
+                        "Oportunidades de Aprendizado",
+                        "Habilidades Interpessoais",
+                        "Liderança",
+                        "Adaptação",
+                        "Networking",
+                        "Compromisso com Qualidade"
+                    ]
+                },
+                {
+                    "capitulo": "Capítulo 12 - Recursos Adicionais",
+                    "topicos": [
+                        "Livros",
+                        "Cursos Online",
+                        "Comunidades e Fóruns",
+                        "Blogs e Artigos"
+                    ]
+                }
+            ],
+            "palavras_chave": [
+                "QA",
+                "Testes de Software",
+                "Automação",
+                "Bugs",
+                "Metodologias Ágeis"
+            ],
+            "url_download": "https://drive.google.com/file/d/12hFM6eDszKiYbk7Q1T-XwOkgxFISDwRU"
         },
         {
-          "capitulo": "Capítulo 2 - O Papel do QA no Desenvolvimento de Software",
-          "topicos": [
-            "Responsabilidades de um QA",
-            "Habilidades Essenciais",
-            "Importância do QA no Ciclo de Desenvolvimento"
-          ]
-        },
-        {
-          "capitulo": "Capítulo 3 - Tipos de Testes de Software",
-          "topicos": [
-            "Testes Funcionais",
-            "Testes Não Funcionais",
-            "Testes de Manutenção"
-          ]
-        },
-        {
-          "capitulo": "Capítulo 4 - Ciclo de Vida dos Testes",
-          "topicos": [
-            "Planejamento de Testes",
-            "Desenvolvimento de Casos de Teste",
-            "Execução de Testes",
-            "Avaliação de Resultados",
-            "Reteste e Manutenção"
-          ]
-        },
-        {
-          "capitulo": "Capítulo 5 - Ferramentas de Testes",
-          "topicos": [
-            "Gestão de Testes",
-            "Automação",
-            "API",
-            "Mobile",
-            "Acessibilidade",
-            "Unidade",
-            "Performance",
-            "Segurança",
-            "Gestão de Defeitos"
-          ]
-        },
-        {
-          "capitulo": "Capítulo 6 - Automação de Testes",
-          "topicos": [
-            "Vantagens e Desvantagens",
-            "Boas Práticas",
-            "CI/CD",
-            "Desafios Comuns"
-          ]
-        },
-        {
-          "capitulo": "Capítulo 7 - Testes de Performance e Segurança",
-          "topicos": [
-            "Tipos de Testes de Performance",
-            "Ferramentas de Performance",
-            "Boas Práticas em Performance",
-            "Tipos de Testes de Segurança",
-            "Ferramentas de Segurança",
-            "Integração no Ciclo de Desenvolvimento"
-          ]
-        },
-        {
-          "capitulo": "Capítulo 8 - Boas Práticas em Testes de Software",
-          "topicos": [
-            "Planejamento e Organização",
-            "Execução de Testes",
-            "Gerenciamento de Bugs",
-            "Colaboração e Comunicação",
-            "Melhoria Contínua"
-          ]
-        },
-        {
-          "capitulo": "Capítulo 9 - Desafios Comuns e Como Superá-los",
-          "topicos": [
-            "Cobertura Inadequada",
-            "Ambientes Inconsistentes",
-            "Testes Manuais",
-            "Gerenciamento de Dados",
-            "Prioridades e Comunicação"
-          ]
-        },
-        {
-          "capitulo": "Capítulo 10 - Conclusão",
-          "topicos": []
-        },
-        {
-          "capitulo": "Capítulo 11 - Próximos Passos na Carreira de QA",
-          "topicos": [
-            "Objetivos Profissionais",
-            "Habilidades Técnicas",
-            "Certificações",
-            "Oportunidades de Aprendizado",
-            "Habilidades Interpessoais",
-            "Liderança",
-            "Adaptação",
-            "Networking",
-            "Compromisso com Qualidade"
-          ]
-        },
-        {
-          "capitulo": "Capítulo 12 - Recursos Adicionais",
-          "topicos": [
-            "Livros",
-            "Cursos Online",
-            "Comunidades e Fóruns",
-            "Blogs e Artigos"
-          ]
+            "id": "ebook02",
+            "titulo": "Ciclo de Vida dos ​Testes de Software - Um Guia Completo para Garantir a ​Qualidade do seu Software",
+            "autor": "Daniel Castro - QWay Academy",
+            "descricao": "Este livro é destinado a profissionais de QA, desenvolvedores de software e outros profissionais envolvidos no processo de desenvolvimento de software que desejam aprimorar seus conhecimentos sobre o ciclo de vida dos testes de software.",
+            "data_publicacao": "Agosto de 2024",
+            "numero_paginas": 41,
+            "idioma": "Português",
+            "categorias": [
+                "Testes de Software",
+                "Qualidade de Software"
+            ],
+            "nivel_dificuldade": "Pleno",
+            "formato": "PDF",
+            "sumario": [
+                {
+                    "capitulo": "Capítulo 1 - Planejamento de Testes",
+                    "topicos": [
+                        "O que é o planejamento de testes e por que é importante?",
+                        "Alinhamento com Objetivos do Projeto",
+                        "Eficiência no Uso de Recursos",
+                        "Mitigação de Riscos",
+                        "Transparência e Comunicação",
+                        "Como definir objetivos e escopo dos testes?",
+                        "Objetivos dos Testes",
+                        "Escopo dos Testes",
+                        "Como identificar os recursos necessários para os testes?",
+                        "Recursos Humanos",
+                        "Recursos Técnicos",
+                        "Recursos Materiais",
+                        "Como elaborar um plano de teste eficiente?",
+                        "Introdução",
+                        "Estratégia de Teste",
+                        "Cronograma",
+                        "Recursos",
+                        "Procedimentos de Comunicação",
+                        "Controle de Qualidade"
+                    ]
+                },
+                {
+                    "capitulo": "Capítulo 2 - Preparação de Testes",
+                    "topicos": [
+                        "O que é a preparação de testes e por que é importante?",
+                        "Como preparar o ambiente de teste?",
+                        "Definição do Ambiente",
+                        "Configuração do Ambiente",
+                        "Validação do Ambiente",
+                        "Como configurar as ferramentas e recursos necessários para os testes?",
+                        "Seleção de Ferramentas",
+                        "Configuração de Ferramentas",
+                        "Validação de Ferramentas",
+                        "Como preparar o conjunto de testes?",
+                        "Criação de Casos de Teste",
+                        "Desenvolvimento de Scripts de Automação",
+                        "Preparação de Dados de Teste"
+                    ]
+                },
+                {
+                    "capitulo": "Capítulo 3 - Execução de Testes",
+                    "topicos": [
+                        "O que é a execução de testes e por que é importante?",
+                        "Como executar testes manualmente e/ou automaticamente?",
+                        "Testes Manuais",
+                        "Testes Automáticos",
+                        "Como documentar os resultados dos testes?",
+                        "Registro de Resultados",
+                        "Ferramentas de Documentação",
+                        "Comunicação de Resultados",
+                        "Como relatar bugs encontrados durante os testes?",
+                        "Identificação de Bugs",
+                        "Ferramentas de Rastreamento de Bugs",
+                        "Componentes de um Relatório de Bug",
+                        "Comunicação e Acompanhamento"
+                    ]
+                },
+                {
+                    "capitulo": "Capítulo 4 - Relatório de Testes",
+                    "topicos": [
+                        "O que é o relatório de testes e por que é importante?",
+                        "Como elaborar relatórios de testes claros e concisos?",
+                        "Estrutura do Relatório de Testes",
+                        "1. Introdução",
+                        "2. Resumo Executivo",
+                        "3. Detalhes dos Testes Realizados",
+                        "4. Análise de Problemas Encontrados",
+                        "5. Métricas de Teste",
+                        "6. Conclusão",
+                        "Como descrever os resultados dos testes e quaisquer problemas encontrados?",
+                        "Como fornecer feedback aos stakeholders sobre os resultados dos testes?",
+                        "Comunicação Clara e Direta",
+                        "Foco nas Prioridades",
+                        "Feedback Contínuo"
+                    ]
+                },
+                {
+                    "capitulo": "Capítulo 5 - Correção de Bugs",
+                    "topicos": [
+                        "O que é a correção de bugs e por que é importante?",
+                        "Como trabalhar com a equipe de desenvolvimento para corrigir bugs encontrados durante os testes?",
+                        "Comunicação Clara e Detalhada",
+                        "Priorização e Rastreabilidade",
+                        "Colaboração e Resolução de Problemas",
+                        "Como verificar se os bugs foram corrigidos corretamente?",
+                        "Reteste",
+                        "Testes de Regressão",
+                        "Documentação e Comunicação"
+                    ]
+                },
+                {
+                    "capitulo": "Capítulo 6 - Reteste e Validação",
+                    "topicos": [
+                        "O que é o reteste e validação e por que é importante?",
+                        "Como executar testes adicionais após a correção de bugs?",
+                        "Planejamento de Reteste",
+                        "Execução de Reteste",
+                        "Testes de Regressão",
+                        "Análise dos Resultados",
+                        "Como garantir que os problemas foram resolvidos e que o software está funcionando corretamente?",
+                        "Verificação de Correções",
+                        "Validação de Requisitos",
+                        "Monitoramento e Feedback",
+                        "Documentação e Comunicação"
+                    ]
+                },
+                {
+                    "capitulo": "Capítulo 7 - Encerramento de Testes",
+                    "topicos": [
+                        "O que é o encerramento de testes e por que é importante?",
+                        "Como documentar os resultados finais dos testes?",
+                        "Coleta de Resultados",
+                        "Estrutura do Relatório Final",
+                        "1. Introdução",
+                        "2. Resumo Executivo",
+                        "3. Resultados dos Testes",
+                        "4. Análise de Problemas Encontrados",
+                        "5. Métricas de Teste",
+                        "6. Conclusão",
+                        "Como fornecer feedback aos stakeholders sobre os resultados finais dos testes?",
+                        "Comunicação Clara e Direta",
+                        "Foco nas Prioridades",
+                        "Feedback Contínuo",
+                        "Como preparar o software para o lançamento?",
+                        "Revisão Final",
+                        "Documentação",
+                        "Preparação do Ambiente",
+                        "Comunicação e Treinamento",
+                        "Monitoramento Pós-Lançamento"
+                    ]
+                },
+                {
+                    "capitulo": "Conclusão",
+                    "topicos": [
+                        "Importância do Ciclo de Vida dos Testes de Software"
+                    ]
+                },
+                {
+                    "capitulo": "Recursos Adicionais",
+                    "topicos": [
+                        "Leituras Recomendadas",
+                        "Ferramentas de Testes Populares",
+                        "1. Ferramentas de Automação de Testes",
+                        "2. Ferramentas de Gestão de Testes",
+                        "3. Ferramentas de Testes de Performance",
+                        "4. Ferramentas de Testes de Segurança",
+                        "5. Ferramentas de Testes de Unidade",
+                        "Comunidades e Fóruns",
+                        "Blogs e Artigos",
+                        "Cursos Online"
+                    ]
+                }
+            ],
+            "palavras_chave": [
+                "Ciclo de Vida dos Testes",
+                "QA",
+                "Qualidade de Software",
+                "Planejamento de Testes",
+                "Execução de Testes"
+            ],
+            "url_download": "https://drive.google.com/file/d/1sXjHXINDJkxYFFPm7AB-y-qU0hp5Myjw"
         }
-      ],
-      "palavras_chave": [
-        "QA",
-        "Testes de Software",
-        "Automação",
-        "Bugs",
-        "Metodologias Ágeis"
-      ],
-      "url_download": "https://pay.kiwify.com.br/IaOcKSj",
-      "url_visualizacao": "https://pay.kiwify.com.br/IaOcKSj",
-      "capa": "https://blogger.googleusercontent.com/img/a/AVvXsEh-Cc7YPDRDJjmInPBydJiHZ89szHYxw05DLlLnAKXr9X5XBnIQ6DGKwd-AYK-dUZwE4iuRUftYtCbERMI-UVtHepL5IqlMhT53t1vcbFc-2Num8brkujXeMjihQ8WIXy5B5Wxp57dLmB1Va0m0pbDJFuGnXsNDSreNVRU4CKI8Syp3qAFk7h5MpSzyzTyb"
-    }
-  ]
+    ]
 }
